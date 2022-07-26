@@ -17,7 +17,7 @@
       <a href="https://www.acmicpc.net/problem/2573"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier" width=20px></a>
     </td>
     <td align="center">7월 4주차</td>
-    <td align="center"><a href="">목록보기</a></td>
+    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/01_7_4week">목록보기</a></td>
   </tr>
 </table>
 <br><br>
