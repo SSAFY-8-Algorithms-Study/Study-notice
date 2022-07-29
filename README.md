@@ -53,8 +53,8 @@
 1조
 <table align="center" width="50%">
   <tr>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://avatars.githubusercontent.com/u/87289383?v=4" width="150px"></a></td>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
+        <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
+        <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
     <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
     <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
     <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
@@ -62,7 +62,7 @@
     <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
   </tr>
   <tr>
-    <td align="center"><b>김인수</b></td>
+    <td align="center"><b></b></td>
     <td align="center"><b></b></td>
     <td align="center"><b></b></td>
     <td align="center"><b></b></td>
@@ -71,7 +71,7 @@
     <td align="center"><b></b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/iknowkis" title="Github">💻</a></td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -84,7 +84,7 @@
 2조
 <table align="center" width="50%">
   <tr>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"></a></td>
+    <td align="center"><a href="https://github.com/87289383"><img src="https://avatars.githubusercontent.com/u/87289383?v=4" width="250px"></a></td></a></td>
     <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"></a></td>
     <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"></a></td>
     <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"></a></td>
@@ -94,7 +94,7 @@
   </tr>
 
   <tr>
-    <td align="center"><b></b></td>
+    <td align="center"><b>김인수</b></td>
     <td align="center"><b></b></td>
     <td align="center"><b></b></td>
     <td align="center"><b></b></td>
@@ -103,7 +103,7 @@
     <td align="center"><b></b></td>
   </tr>
   <tr>
-    <td align="center"></td>
+    <td align="center"><a href="https://github.com/iknowkis" title="Github">💻</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -152,9 +152,18 @@
   - 마감 기한 : 화요일 24시
   - 평가 요소 : 과제 제출 토대로 점수 산정 및 다음 알고리즘 문제 제공
 5. 제출 방법은 백준 통과 캡쳐와 함께 코드를 반별 레파지토리에 커밋합니다.
-6. Pull Request Name은 `사이트_번호_이름`로 합니다. < 백준(BOJ), SW Expert Academy(SWEA), Programmers(PRO) >
-  - 예) BOJ_17179_김인수
 <br><br>
+
+## Git PR 방법
+1. git branch 브랜치이름
+2. git checkout 브랜치이름
+3.  폴더를 만들고 java 파일을 넣은 후
+4. git add .
+5. git commit -m "커밋메시지"
+6. git checkout master
+7. git pull origin master
+8. git checkout 브랜치이름
+9. git push origin master
 
 ## 참고해서 계속해서 작성 <br>
 https://github.com/SSAFY5-Algorithms-Kid/Algorithms-Solved/wiki <br>
