@@ -24,125 +24,6 @@
 
 <br><br>
 
-## 💻 문제 포인트 산정
-
-<table width="50%">
-  <tr>
-    <td align="center">플래티넘</td>
-    <td align="center">4 pt</td>
-  </tr>
-  <tr>
-    <td align="center">골드</td>
-    <td align="center">3 pt</td>
-  </tr>
-  <tr>
-    <td align="center">실버</td>
-    <td align="center">2 pt</td>
-  </tr>
-  <tr>
-    <td align="center">브론즈</td>
-    <td align="center">1 pt</td>
-  </tr>
-</table>
-
-<br><br>   
-## 🏆 포인트 랭킹
-
-<br><br>
-## 📚 조 편성
-1조
-<table align="center" width="50%">
-  <tr>
-        <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
-        <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><b></b></td>
-    <td align="center"><b></b></td>
-    <td align="center"><b></b></td>
-    <td align="center"><b></b></td>
-    <td align="center"><b></b></td>
-    <td align="center"><b></b></td>
-    <td align="center"><b></b></td>
-  </tr>
-  <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-</table>
-
-2조
-<table align="center" width="50%">
-  <tr>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://avatars.githubusercontent.com/u/87289383?v=4" width="250px"></a></td></a></td>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"></a></td>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"></a></td>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"></a></td>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"></a></td>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"></a></td>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"></a></td>
-  </tr>
-
-  <tr>
-    <td align="center"><b>김인수</b></td>
-    <td align="center"><b></b></td>
-    <td align="center"><b></b></td>
-    <td align="center"><b></b></td>
-    <td align="center"><b></b></td>
-    <td align="center"><b></b></td>
-    <td align="center"><b></b></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/iknowkis" title="Github">💻</a></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-</table>
-3조
-<table align="center" width="50%">
-  <tr>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
-    <td align="center"><a href="https://github.com/87289383"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="150px"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><b></b></td>
-    <td align="center"><b></b></td>
-    <td align="center"><b></b></td>
-    <td align="center"><b></b></td>
-    <td align="center"><b></b></td>
-    <td align="center"><b></b></td>
-    <td align="center"><b></b></td>
-  </tr>
-  <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-</table>
-
 ## 📖스터디 소개
 
 1. 삼성청년 SW아카데미 8기 대전 5반 교육생들로 이루어진 알고리즘 스터디 입니다.
@@ -153,6 +34,111 @@
   - 평가 요소 : 과제 제출 토대로 점수 산정 및 다음 알고리즘 문제 제공
 5. 제출 방법은 백준 통과 캡쳐와 함께 코드를 반별 레파지토리에 커밋합니다.
 <br><br>
+
+## 📚 조 편성
+
+1조
+<table align="center" width="50%">
+  <tr>
+    <td align="center"><a href="https://github.com/HyeonIn"><img src="https://avatars.githubusercontent.com/u/28581435?v=4" width="25%"></a></td></a></td>
+    <td align="center"><a href="https://github.com/seunghee114"><img src="https://avatars.githubusercontent.com/u/43427305?v=4" width="25%"></a></td></a></td>
+    <td align="center"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"width="45%"></td>
+    <td align="center"><a href="https://github.com/Jaeukhan"><img src="https://avatars.githubusercontent.com/u/77158873?v=4" width="25%"></a></td></a></td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>최현인</b></td>
+    <td align="center"><b>김승희</b></td>
+    <td align="center"><b>백자민</b></td>
+    <td align="center"><b>한재욱</b></td>
+  </tr>
+</table>
+
+2조
+<table align="center" width="50%">
+  <tr>
+    <td align="center"><a href="https://github.com/sonmh79"><img src="https://avatars.githubusercontent.com/u/78152114?v=4" width="25%"></a></td></a></td>
+    <td align="center"><a href="https://github.com/iknowkis"><img src="https://avatars.githubusercontent.com/u/87289383?v=4" width="25%"></a></td></a></td>
+    <td align="center"><a href="https://github.com/seoyoon528"><img src="https://avatars.githubusercontent.com/u/55688405?v=4" width="25%"></a></td></a></td>
+    <td align="center"><a href="https://github.com/GIT-KINDMAN"><img src="https://avatars.githubusercontent.com/u/95545623?v=4" width="25%"></a></td></a></td>
+    <td align="center"><a href="https://github.com/chahk03"><img src="https://avatars.githubusercontent.com/u/77661312?v=4" width="25%"></a></td></a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>손민혁</b></td>
+    <td align="center"><b>김인수</b></td>
+    <td align="center"><b>박서윤</b></td>
+    <td align="center"><b>이동훈</b></td>
+    <td align="center"><b>차현경</b></td>
+  </tr>
+</table>
+
+3조
+<table align="center" width="50%">
+  <tr>
+    <td align="center"><a href="https://github.com/popopododo"><img src="https://avatars.githubusercontent.com/u/76838814?v=4" width="25%"></a></td></a></td>
+    <td align="center"><a href="https://github.com/joen00"><img src="https://avatars.githubusercontent.com/u/74530474?v=4" width="25%"></a></td></a></td>
+    <td align="center"><a href="https://github.com/samgmin"><img src="https://avatars.githubusercontent.com/u/110011732?v=4" width="25%"></a></td></a></td>
+    <td align="center"><a href="https://github.com/choi1087"><img src="https://avatars.githubusercontent.com/u/68209135?v=4" width="25%"></a></td></a></td>
+
+  </tr>
+  <tr>
+    <td align="center"><b>김동욱</b></td>
+    <td align="center"><b>김아영</b></td>
+    <td align="center"><b>정상민</b></td>
+    <td align="center"><b>최규림</b></td>
+  </tr>
+</table>
+
+4조
+<table align="center" width="50%">
+  <tr>
+    <td align="center"><a href="https://github.com/rudcks5562"><img src="https://avatars.githubusercontent.com/u/72645618?v=4" width="25%"></a></td></a></td>
+    <td align="center"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="45%"></td>
+    <td align="center"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"width="45%"></td>
+    <td align="center"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"width="45%"></td>
+
+  </tr>
+  <tr>
+    <td align="center"><b>임경찬</b></td>
+    <td align="center"><b>김지희</b></td>
+    <td align="center"><b>김동률</b></td>
+    <td align="center"><b>최정온</b></td>
+  </tr>
+</table>
+
+5조
+<table align="center" width="50%">
+  <tr>
+    <td align="center"><a href="https://github.com/rin-k645"><img src="https://avatars.githubusercontent.com/u/67595512?v=4" width="25%"></a></td></a></td>
+    <td align="center"><a href="https://github.com/Sigmaflo"><img src="https://avatars.githubusercontent.com/u/32930234?v=4" width="25%"></a></td></a></td>
+    <td align="center"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"width="45%"></td>
+    <td align="center"><a href="https://github.com/Leeh9"><img src="https://avatars.githubusercontent.com/u/40704078?v=4" width="25%"></a></td></a></td>
+
+  </tr>
+  <tr>
+    <td align="center"><b>김아린</b></td>
+    <td align="center"><b>김주성</b></td>
+    <td align="center"><b>김지환</b></td>
+    <td align="center"><b>이현구</b></td>
+  </tr>
+</table>
+
+6조
+<table align="center" width="50%">
+  <tr>
+    <td align="center"><a href="https://github.com/nanalyee"><img src="https://avatars.githubusercontent.com/u/90018240?v=4" width="25%"></a></td></a></td>
+    <td align="center"><a href="https://github.com/DQ-Kwon"><img src="https://avatars.githubusercontent.com/u/64186425?v=4" width="25%"></a></td></a></td>
+    <td align="center"><a href="https://github.com/skylove308"><img src="https://avatars.githubusercontent.com/u/28649890?v=4" width="25%"></a></td></a></td>
+    <td align="center"><a href="https://github.com/wjdwn03"><img src="https://avatars.githubusercontent.com/u/109848753?v=4" width="25%"></a></td></a></td>
+
+  </tr>
+  <tr>
+    <td align="center"><b>서현경</b></td>
+    <td align="center"><b>권동규</b></td>
+    <td align="center"><b>이경택</b></td>
+    <td align="center"><b>황정주</b></td>
+  </tr>
+</table>
 
 ## Git PR 방법
 1. git branch 브랜치이름
