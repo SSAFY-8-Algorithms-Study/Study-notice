@@ -149,7 +149,7 @@
 6. git checkout master
 7. git pull origin master
 8. git checkout 브랜치이름
-9. git push origin master
+9. git push origin 브랜치이름
 
 ## 참고해서 계속해서 작성 <br>
 https://github.com/SSAFY5-Algorithms-Kid/Algorithms-Solved/wiki <br>
