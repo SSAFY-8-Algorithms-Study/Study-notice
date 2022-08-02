@@ -32,22 +32,22 @@
     <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/02_8_1week">목록보기</a></td>
   </tr>
 </table>
-<a href="https://docs.google.com/spreadsheets/d/1buxYrAU2_gUujN6GX5gJY60DjnuLz58yEKC10a_dLs8/edit#gid=0">문제 풀이 진행도</a><br>
-
-<br><br>
 
 ## 📖스터디 소개
 
-1. 삼성청년 SW아카데미 8기 대전 5반 교육생들로 이루어진 알고리즘 스터디 입니다.
+1. 삼성청년 SW아카데미 8기 대전 5반 교육생들로 이루어진 알고리즘 스터디입니다.
 2. 스터디는 조별로 이루어지고, 공지 및 이벤트 진행은 전체적으로 진행됩니다.
 3. 문제 선정은 조별로 돌아가며 이루어지고, 
 4. 스터디 평가는 Weekly로 진행합니다.
   - 마감 기한 : 화요일 24시
   - 평가 요소 : 과제 제출 토대로 점수 산정 및 다음 알고리즘 문제 제공
 5. 제출 방법은 백준 통과 캡쳐와 함께 코드를 반별 레파지토리에 커밋합니다.
-<br><br>
+6. 반례를 찾는 것은 허용하나, **문제 해설을 보는 것은 금합니다.**
+<br>
 
-## 📚 조 편성
+<details>
+<summary> 📚 조 편성</summary>
+<div markdown="1">
 
 1조
 <table align="center" width="50%">
@@ -152,6 +152,10 @@
   </tr>
 </table>
 
+</div>
+</details>
+<br><br>
+
 ## Git PR 방법
 1. git branch 브랜치이름
 2. git checkout 브랜치이름
@@ -162,9 +166,17 @@
 7. git pull origin master
 8. git checkout 브랜치이름
 9. git push origin 브랜치이름
+<br>
 
-## 참고해서 계속해서 작성 <br>
+<!--
+<details>
+<summary>  스터디 운영 참고 </summary>
+<div markdown="1">
 https://github.com/SSAFY5-Algorithms-Kid/Algorithms-Solved/wiki <br>
 https://github.com/soo5717/2021-Algorithm-Study <br>
 https://github.com/epicarts/algorithm-study <br>
 https://github.com/DKU-STUDY/Algorithm <br>
+</div>
+</details>
+<br><br>
+-->
