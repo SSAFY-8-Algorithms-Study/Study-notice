@@ -93,7 +93,7 @@
 <table align="center" width="50%">
   <tr>
     <td align="center"><a href="https://github.com/rudcks5562"><img src="https://avatars.githubusercontent.com/u/72645618?v=4" width="25%"></a></td></a></td>
-    <td align="center"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png" width="45%"></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/51085309/182308502-b6b39de4-a194-4cb1-bc9e-333d6cae45c5.jpg" width="45%"></td>
     <td align="center"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"width="45%"></td>
     <td align="center"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"width="45%"></td>
 
