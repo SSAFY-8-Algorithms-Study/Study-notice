@@ -40,7 +40,7 @@
     <td align="center"><a href="https://www.acmicpc.net/problem/1931">2468</td>
   </tr>
   <tr>
-    <td align="center">01</td>
+    <td align="center">05</td>
     <td align="center">
       <a href="https://www.acmicpc.net/problem/2206"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier" width=20px></a>
     </td>
