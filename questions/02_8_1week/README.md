@@ -18,7 +18,7 @@
   <tr>
     <td align="center">02</td>
     <td align="center">
-      <a href="https://www.acmicpc.net/problem/2304"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/2304"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier" width=20px></a>
     </td>
     <td align="center">창고 다각형</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/2304">2304</td>
