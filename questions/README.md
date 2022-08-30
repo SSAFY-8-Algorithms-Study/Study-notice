@@ -67,6 +67,18 @@
     <td align="center">8월 4주차</td>
     <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/05_8_4week">목록보기</a></td>
   </tr>
+  <tr>
+    <td align="center">06</td>
+    <td align="center">
+      <a href="https://www.acmicpc.net/problem/10162"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/9372"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/10025"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/2922"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/2917"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" class="solvedac-tier" width=20px></a>
+    </td>
+    <td align="center">9월 1주차</td>
+    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/06_9_1week">목록보기</a></td>
+  </tr>
 </table>
 
 ```bash
@@ -98,10 +110,17 @@
 │   ├── 절댓값 힙
 │   └── 별 찍기 - 10
 │ 
-└── 8월 4주차
-     ├── 비밀편지
-     ├── 근손실
-     ├── 봄버맨
-     ├── 연구소 3
-     └── 나무 재테크
+├── 8월 4주차
+│   ├── 비밀편지
+│   ├── 근손실
+│   ├── 봄버맨
+│   ├── 연구소 3
+│   └── 나무 재테크
+│ 
+└── 9월 1주차
+     ├── 전자레인지
+     ├── 상근이의 여행
+     ├── 게으른 백곰
+     ├── 즐거운 단어
+     └── 늑대 사냥꾼
 ``` 
