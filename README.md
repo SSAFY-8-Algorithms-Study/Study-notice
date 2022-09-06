@@ -79,6 +79,18 @@
     <td align="center">9월 1주차</td>
     <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/06_9_1week">목록보기</a></td>
   </tr>
+  <tr>
+    <td align="center">07</td>
+    <td align="center">
+      <a href="https://www.acmicpc.net/problem/9655"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/20363"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/2310"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/22116"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/15997"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" class="solvedac-tier" width=20px></a>
+    </td>
+    <td align="center">9월 2주차</td>
+    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/07_9_2week">목록보기</a></td>
+  </tr>
 </table>
 
 <details>
@@ -121,12 +133,19 @@
 │   ├── 연구소 3
 │   └── 나무 재테크
 │ 
-└── 9월 1주차
-     ├── 전자레인지
-     ├── 상근이의 여행
-     ├── 게으른 백곰
-     ├── 즐거운 단어
-     └── 늑대 사냥꾼
+├── 9월 1주차
+│   ├── 전자레인지
+│   ├── 상근이의 여행
+│   ├── 게으른 백곰
+│   ├── 즐거운 단어
+│   └── 늑대 사냥꾼
+│ 
+└── 9월 2주차
+     ├── 돌 게임
+     ├── 당근 키우기
+     ├── 어드벤처 게임
+     ├── 창영이와 퇴근
+     └── 승부 예측
 ```
 </div>
 </details>
@@ -173,6 +192,7 @@
     <td align="center"><a href="https://github.com/seoyoon528"><img src="https://avatars.githubusercontent.com/u/55688405?v=4" width="25%"></a></td></a></td>
     <td align="center"><a href="https://github.com/GIT-KINDMAN"><img src="https://avatars.githubusercontent.com/u/95545623?v=4" width="25%"></a></td></a></td>
     <td align="center"><a href="https://github.com/chahk03"><img src="https://avatars.githubusercontent.com/u/77661312?v=4" width="25%"></a></td></a></td>
+    <td align="center"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"width="45%"></td>
   </tr>
   <tr>
     <td align="center"><b>손민혁</b></td>
@@ -180,6 +200,7 @@
     <td align="center"><b>박서윤</b></td>
     <td align="center"><b>이동훈</b></td>
     <td align="center"><b>차현경</b></td>
+    <td align="center"><b>김동률</b></td>
   </tr>
 </table>
 
@@ -190,6 +211,7 @@
     <td align="center"><a href="https://github.com/joen00"><img src="https://avatars.githubusercontent.com/u/74530474?v=4" width="25%"></a></td></a></td>
     <td align="center"><a href="https://github.com/samgmin"><img src="https://avatars.githubusercontent.com/u/110011732?v=4" width="25%"></a></td></a></td>
     <td align="center"><a href="https://github.com/choi1087"><img src="https://avatars.githubusercontent.com/u/68209135?v=4" width="25%"></a></td></a></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/51085309/182308502-b6b39de4-a194-4cb1-bc9e-333d6cae45c5.jpg" width="25%"></td>
 
   </tr>
   <tr>
@@ -197,25 +219,11 @@
     <td align="center"><b>김아영</b></td>
     <td align="center"><b>정상민</b></td>
     <td align="center"><b>최규림</b></td>
-  </tr>
-</table>
-
-4조
-<table align="center" width="50%">
-  <tr>
-    <td align="center"><a href="https://github.com/rudcks5562"><img src="https://avatars.githubusercontent.com/u/72645618?v=4" width="25%"></a></td></a></td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/51085309/182308502-b6b39de4-a194-4cb1-bc9e-333d6cae45c5.jpg" width="25%"></td>
-    <td align="center"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"width="45%"></td>
-    <td align="center"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"width="45%"></td>
-
-  </tr>
-  <tr>
-    <td align="center"><b>임경찬</b></td>
     <td align="center"><b>김지희</b></td>
-    <td align="center"><b>김동률</b></td>
-    <td align="center"><b>최정온</b></td>
   </tr>
 </table>
+
+4조 (조 재배치)
 
 5조
 <table align="center" width="50%">
@@ -224,6 +232,7 @@
     <td align="center"><a href="https://github.com/Sigmaflo"><img src="https://avatars.githubusercontent.com/u/32930234?v=4" width="25%"></a></td></a></td>
     <td align="center"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"width="45%"></td>
     <td align="center"><a href="https://github.com/Leeh9"><img src="https://avatars.githubusercontent.com/u/40704078?v=4" width="25%"></a></td></a></td>
+    <td align="center"><img src="https://velog.velcdn.com/images/tanger2ne/post/fb18c31b-9cea-4b0b-bc1e-546198476465/image.png"width="45%"></td>
 
   </tr>
   <tr>
@@ -231,6 +240,7 @@
     <td align="center"><b>김주성</b></td>
     <td align="center"><b>김지환</b></td>
     <td align="center"><b>이현구</b></td>
+    <td align="center"><b>최정온</b></td>
   </tr>
 </table>
 
@@ -241,6 +251,7 @@
     <td align="center"><a href="https://github.com/DQ-Kwon"><img src="https://avatars.githubusercontent.com/u/64186425?v=4" width="25%"></a></td></a></td>
     <td align="center"><a href="https://github.com/skylove308"><img src="https://avatars.githubusercontent.com/u/28649890?v=4" width="25%"></a></td></a></td>
     <td align="center"><a href="https://github.com/wjdwn03"><img src="https://avatars.githubusercontent.com/u/109848753?v=4" width="25%"></a></td></a></td>
+    <td align="center"><a href="https://github.com/rudcks5562"><img src="https://avatars.githubusercontent.com/u/72645618?v=4" width="25%"></a></td></a></td>
 
   </tr>
   <tr>
@@ -248,6 +259,7 @@
     <td align="center"><b>권동규</b></td>
     <td align="center"><b>이경택</b></td>
     <td align="center"><b>황정주</b></td>
+    <td align="center"><b>임경찬</b></td>
   </tr>
 </table>
 
