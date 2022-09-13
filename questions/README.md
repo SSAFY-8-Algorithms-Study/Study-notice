@@ -91,6 +91,18 @@
     <td align="center">9월 2주차</td>
     <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/07_9_2week">목록보기</a></td>
   </tr>
+  <tr>
+    <td align="center">08</td>
+    <td align="center">
+      <a href="https://www.acmicpc.net/problem/1764"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/11387"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/1325"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/17070"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/1504"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier" width=20px></a>
+    </td>
+    <td align="center">9월 3주차</td>
+    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/08_9_3week">목록보기</a></td>
+  </tr>
 </table>
 
 ```bash
@@ -136,10 +148,17 @@
 │   ├── 즐거운 단어
 │   └── 늑대 사냥꾼
 │ 
-└── 9월 2주차
-     ├── 돌 게임
-     ├── 당근 키우기
-     ├── 어드벤처 게임
-     ├── 창영이와 퇴근
-     └── 승부 예측
+├── 9월 2주차
+│   ├── 돌 게임
+│   ├── 당근 키우기
+│   ├── 어드벤처 게임
+│   ├── 창영이와 퇴근
+│   └── 승부 예측
+│ 
+└── 9월 3주차
+     ├── 듣보잡
+     ├── 님 무기가 좀 나쁘시네여
+     ├── 효율적인 해킹
+     ├── 파이프 옮기기 1
+     └── 특정한 최단 경로
 ``` 
