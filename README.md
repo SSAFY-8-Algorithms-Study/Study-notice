@@ -103,6 +103,18 @@
     <td align="center">9월 3주차</td>
     <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/08_9_3week">목록보기</a></td>
   </tr>
+  <tr>
+    <td align="center">09</td>
+    <td align="center">
+      <a href="https://www.acmicpc.net/problem/2579"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/17086"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/2805"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/2660"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/18428"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" class="solvedac-tier" width=20px></a>
+    </td>
+    <td align="center">9월 4주차</td>
+    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/09_9_4week">목록보기</a></td>
+  </tr>
 </table>
 
 <details>
@@ -159,12 +171,19 @@
 │   ├── 창영이와 퇴근
 │   └── 승부 예측
 │ 
-└── 9월 3주차
-     ├── 듣보잡
-     ├── 님 무기가 좀 나쁘시네여
-     ├── 효율적인 해킹
-     ├── 파이프 옮기기 1
-     └── 특정한 최단 경로
+├── 9월 3주차
+│   ├── 듣보잡
+│   ├── 님 무기가 좀 나쁘시네여
+│   ├── 효율적인 해킹
+│   ├── 파이프 옮기기 1
+│   └── 특정한 최단 경로
+│ 
+└── 9월 4주차
+     ├── 계단 오르기
+     ├── 아기 상어 2
+     ├── 나무 자르기
+     ├── 회장뽑기
+     └── 감시 피하기
 ```
 </div>
 </details>
