@@ -115,6 +115,18 @@
     <td align="center">9월 4주차</td>
     <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/09_9_4week">목록보기</a></td>
   </tr>
+  <tr>
+    <td align="center">10</td>
+    <td align="center">
+      <a href="https://www.acmicpc.net/problem/18353"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/9205"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/1189"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/17179"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/6987"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" class="solvedac-tier" width=20px></a>
+    </td>
+    <td align="center">9월 5주차</td>
+    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/10_9_5week">목록보기</a></td>
+  </tr>
 </table>
 
 ```bash
@@ -174,10 +186,17 @@
 │   ├── 파이프 옮기기 1
 │   └── 특정한 최단 경로
 │ 
-└── 9월 4주차
-     ├── 계단 오르기
-     ├── 아기 상어 2
-     ├── 나무 자르기
-     ├── 회장뽑기
-     └── 감시 피하기
+├── 9월 4주차
+│   ├── 계단 오르기
+│   ├── 아기 상어 2
+│   ├── 나무 자르기
+│   ├── 회장 뽑기
+│   └── 감시 피하기
+│ 
+└── 9월 5주차
+     ├── 병사 배치하기
+     ├── 맥주 마시면서 걸어가기
+     ├── 컴백홈
+     ├── 케이크 자르기
+     └── 월드컵
 ``` 
