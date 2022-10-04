@@ -136,7 +136,7 @@
       <a href="https://www.acmicpc.net/problem/8982"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" class="solvedac-tier" width=20px></a>
       <a href="https://www.acmicpc.net/problem/17143"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg" class="solvedac-tier" width=20px></a>
     </td>
-    <td align="center">9월 5주차</td>
+    <td align="center">10월 1주차</td>
     <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/11_10_1week">목록보기</a></td>
   </tr>
 </table>
