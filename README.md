@@ -127,6 +127,18 @@
     <td align="center">9월 5주차</td>
     <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/10_9_5week">목록보기</a></td>
   </tr>
+  <tr>
+    <td align="center">11</td>
+    <td align="center">
+      <a href="https://www.acmicpc.net/problem/3187"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/11403"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/2624"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/8982"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/17143"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg" class="solvedac-tier" width=20px></a>
+    </td>
+    <td align="center">10월 1주차</td>
+    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/11_10_1week">목록보기</a></td>
+  </tr>
 </table>
 
 <details>
@@ -197,12 +209,19 @@
 │   ├── 회장 뽑기
 │   └── 감시 피하기
 │ 
-└── 9월 5주차
-     ├── 병사 배치하기
-     ├── 맥주 마시면서 걸어가기
-     ├── 컴백홈
-     ├── 케이크 자르기
-     └── 월드컵
+├── 9월 5주차
+│   ├── 병사 배치하기
+│   ├── 맥주 마시면서 걸어가기
+│   ├── 컴백홈
+│   ├── 케이크 자르기
+│   └── 월드컵
+│ 
+└── 10월 1주차
+     ├── 양치기 꿍
+     ├── 경로 찾기
+     ├── 동전 바꿔주기
+     ├── 수족관 1
+     └── 낚시왕
 ```
 </div>
 </details>
