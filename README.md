@@ -139,6 +139,18 @@
     <td align="center">10월 1주차</td>
     <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/11_10_1week">목록보기</a></td>
   </tr>
+  <tr>
+    <td align="center">12</td>
+    <td align="center">
+      <a href="https://www.acmicpc.net/problem/1388"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/14225"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/5427"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/1043"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/17837"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" class="solvedac-tier" width=20px></a>
+    </td>
+    <td align="center">10월 2주차</td>
+    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/12_10_2week">목록보기</a></td>
+  </tr>
 </table>
 
 <details>
@@ -216,12 +228,19 @@
 │   ├── 케이크 자르기
 │   └── 월드컵
 │ 
-└── 10월 1주차
-     ├── 양치기 꿍
-     ├── 경로 찾기
-     ├── 동전 바꿔주기
-     ├── 수족관 1
-     └── 낚시왕
+├── 10월 1주차
+│   ├── 양치기 꿍
+│   ├── 경로 찾기
+│   ├── 동전 바꿔주기
+│   ├── 수족관 1
+│   └── 낚시왕
+│ 
+└── 10월 2주차
+     ├── 바닥 장식
+     ├── 부분수열의 합
+     ├── 불
+     ├── 거짓말
+     └── 새로운 게임 2
 ```
 </div>
 </details>
