@@ -163,6 +163,18 @@
     <td align="center">10월 3주차</td>
     <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/13_10_3week">목록보기</a></td>
   </tr>
+  <tr>
+    <td align="center">14</td>
+    <td align="center">
+      <a href="https://www.acmicpc.net/problem/2003"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/11060"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/21610"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/1670"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/1826"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" class="solvedac-tier" width=20px></a>
+    </td>
+    <td align="center">10월 4주차</td>
+    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/14_10_4week">목록보기</a></td>
+  </tr>
 </table>
 
 ```bash
@@ -250,10 +262,17 @@
 │   ├── 거짓말
 │   └── 새로운 게임 2
 │ 
-└── 10월 3주차
-     ├── 비슷한 단어
-     ├── 음식물 피하기
-     ├── 전구와 스위치
-     ├── 회사 문화 1
-     └── 아맞다우산
+├── 10월 3주차
+│   ├── 비슷한 단어
+│   ├── 음식물 피하기
+│   ├── 전구와 스위치
+│   ├── 회사 문화 1
+│   └── 아맞다우산
+│ 
+└── 10월 4주차
+     ├── 수들의 합 2
+     ├── 점프 점프
+     ├── 마법사 상어와 비바라기
+     ├── 정상 회담 2
+     └── 연료 채우기
 ``` 
