@@ -27,10 +27,7 @@
       <a href="https://www.acmicpc.net/problem/3187"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" class="solvedac-tier" width=20px></a>
       <a href="https://www.acmicpc.net/problem/11403"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" class="solvedac-tier" width=20px></a>
       <a href="https://www.acmicpc.net/problem/2624"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" class="solvedac-tier" width=20px></a>
-      <a href="https://www.acmicpc.net/problem/8982"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/
-        
-        
-     .svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/8982"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" class="solvedac-tier" width=20px></a>
       <a href="https://www.acmicpc.net/problem/17143"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg" class="solvedac-tier" width=20px></a>
     </td>
     <td align="center">10월 1주차</td>
