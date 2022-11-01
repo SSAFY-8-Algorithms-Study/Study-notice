@@ -110,6 +110,16 @@
     </td>
     <td align="center">8월 4주차</td>
     <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/05_8_4week">목록보기</a></td>
+    <td align="center">15</td>
+    <td align="center">
+      <a href="https://www.acmicpc.net/problem/1459"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/2688"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/20437"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/1956"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/21609"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" class="solvedac-tier" width=20px></a>
+    </td>
+    <td align="center">11월 1주차</td>
+    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/15_11_1week">목록보기</a></td>
   </tr>
   <tr>
     <td align="center">06</td>
@@ -269,12 +279,19 @@
 │   ├── 회사 문화 1
 │   └── 아맞다우산
 │ 
-└── 10월 4주차
-     ├── 수들의 합 2
-     ├── 점프 점프
-     ├── 마법사 상어와 비바라기
-     ├── 정상 회담 2
-     └── 연료 채우기
+├── 10월 4주차
+│   ├── 수들의 합 2
+│   ├── 점프 점프
+│   ├── 마법사 상어와 비바라기
+│   ├── 정상 회담 2
+│   └── 연료 채우기
+│ 
+└── 11월 1주차
+     ├── 걷기
+     ├── 줄어들지 않아
+     ├── 문자열 게임 2
+     ├── 운동
+     └── 상어 중학교
 ```
 </div>
 </details>
