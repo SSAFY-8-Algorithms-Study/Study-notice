@@ -132,6 +132,16 @@
     </td>
     <td align="center">9월 1주차</td>
     <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/06_9_1week">목록보기</a></td>
+    <td align="center">16</td>
+    <td align="center">
+      <a href="https://www.acmicpc.net/problem/9519"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/17073"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/3089"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/17822"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/1918"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" class="solvedac-tier" width=20px></a>
+    </td>
+    <td align="center">11월 3주차</td>
+    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/16_11_3week">목록보기</a></td>
   </tr>
   <tr>
     <td align="center">07</td>
@@ -286,12 +296,19 @@
 │   ├── 정상 회담 2
 │   └── 연료 채우기
 │ 
-└── 11월 1주차
-     ├── 걷기
-     ├── 줄어들지 않아
-     ├── 문자열 게임 2
-     ├── 운동
-     └── 상어 중학교
+├── 11월 1주차
+│   ├── 걷기
+│   ├── 줄어들지 않아
+│   ├── 문자열 게임 2
+│   ├── 운동
+│   └── 상어 중학교
+│ 
+└── 11월 3주차
+     ├── 졸려
+     ├── 나무 위의 빗물
+     ├── 네잎 클로버를 찾아서
+     ├── 원판 돌리기
+     └── 후위 표기식
 ```
 </div>
 </details>
